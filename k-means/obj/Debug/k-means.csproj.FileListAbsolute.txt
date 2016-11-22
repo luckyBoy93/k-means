@@ -1,0 +1,9 @@
+c:\users\matvey\documents\visual studio 2013\Projects\k-means\k-means\bin\Debug\k-means.exe.config
+C:\Users\Matvey\Documents\Visual Studio 2013\Projects\k-means\k-means\obj\Debug\k-means.csprojResolveAssemblyReference.cache
+C:\Users\Matvey\Documents\Visual Studio 2013\Projects\k-means\k-means\bin\Debug\k-means.exe
+C:\Users\Matvey\Documents\Visual Studio 2013\Projects\k-means\k-means\bin\Debug\k-means.pdb
+C:\Users\Matvey\Documents\Visual Studio 2013\Projects\k-means\k-means\obj\Debug\k-means.exe
+C:\Users\Matvey\Documents\Visual Studio 2013\Projects\k-means\k-means\obj\Debug\k-means.pdb
+C:\Users\Matvey\Documents\GitHub\K-means\k-means\bin\Debug\k-means.exe.config
+C:\Users\Matvey\Documents\GitHub\K-means\k-means\obj\Debug\k-means.exe
+C:\Users\Matvey\Documents\GitHub\K-means\k-means\obj\Debug\k-means.pdb
